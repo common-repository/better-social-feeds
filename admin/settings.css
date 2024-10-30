@@ -1,0 +1,46 @@
+
+/* Each Setting Container CSS */
+.fftmj_setting-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 8%);
+    background-color: #f4faff;
+    margin: 2rem 0;
+    border-radius: 5px;
+}
+
+.fftmj_admin_heading{
+    font-size: 1.25rem;
+    margin: 0;
+    width: 98%;
+    background-color: #adb5bd;
+    line-height: 1.2;
+    font-weight: 500;
+    padding: 1%;
+}
+
+.fftmj_inner-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 3vh 0 3vh 0;
+}
+
+.fftmj_col-1{
+    width: 30%;
+    margin-left: 1.5vw;
+    font-weight: 700;
+    line-height: 2;
+    font-size: 14px;
+}
+
+.fftmj_col-2{
+    width: 70%;
+}
+
+.fftmj_input{
+    min-width: 95%;
+    width: 95%;
+    border-radius: 0 !important;
+}
